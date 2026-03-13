@@ -15,13 +15,17 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # Gemini / Google AI
+DOMAIN,accounts.google.com
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,gemini.google.com
 DOMAIN,notebooklm.google.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
 
 # Microsoft / GitHub Copilot / Bing AI
 DOMAIN,api.githubcopilot.com
